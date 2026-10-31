@@ -1,12 +1,12 @@
 {
-  "version": "27.1.1",
-  "codename": "Emerald Bay",
-  "filename": "cometos-27.1.0-f279af2-20261030-x86_64.iso",
-  "url": "https://master.dl.sourceforge.net/project/cometlinux/27.1.0/cometos-27.1.0-f279af2-20261030-x86_64.iso",
-  "mirrors": [
-    "https://downloads.sourceforge.net/project/cometlinux/27.1.0/cometos-27.1.0-f279af2-20261030-x86_64.iso"
-  ],
-  "size": 3023077376,
-  "md5": "bcba8f558ff0d994427ff535b9fdd2c4",
-  "changelog": "CometOS Emerald Bay 27.1.1 brings a set of apps, a new Control Center and a matching lock screen, and makes Software Update more dependable.\n\nApps:\n- Mail, Calendar, Notes, Clock, Weather, Photo Booth, Voice Memos, Podcasts, Books, Maps and Freeform\n- Pages, Numbers, Keynote and iMovie\n- Font Book, Keychain Access, Console, Digital Color Meter, Grapher, Image Capture, Screen Sharing and Storage\n- AirDrop and Messages work with your phone\n- Safari takes on a Safari-inspired look\n\nDesktop:\n- Redesigned Control Center with pill toggles, sound and brightness sliders, and Now Playing\n- Lock screen displays your picture, with the password field appearing over a blurred wallpaper when typing begins\n- Larger Dock and menu bar, with the full Trash icon visible in the Dock\n- macOS Tahoe-inspired app icons, including dark variants for dark appearance\n- Terminal uses a dark appearance by default\n\nSystem:\n- Printing and scanning, with automatic discovery of network printers\n- Time Machine backups, firewall, VoiceOver, Quick Look in Finder, Touch ID support with fingerprint readers, and firmware updates\n- Software Update can resume after dropped connections and displays release notes before updating"
+    "version": "27.2.0",
+    "codename": "Emerald Bay",
+    "filename": "cometos-27.2.0-1bc0815-20261030-x86_64.iso",
+    "url": "https://master.dl.sourceforge.net/project/cometlinux/27.2.0/cometos-27.2.0-1bc0815-20261030-x86_64.iso",
+    "mirrors": [
+        "https://downloads.sourceforge.net/project/cometlinux/27.2.0/cometos-27.2.0-1bc0815-20261030-x86_64.iso"
+    ],
+    "size": 2959474688,
+    "md5": "ab1960f9c8341c94e214a901484b6a56",
+    "changelog": "CometOS Emerald Bay 27.2 gives every app and feature a plain name that says what it does, and installs updates while the computer restarts.\n\n**Names**\n- Apps and features have plain names: Files, Web Browser, Software Center, Document Viewer, Text Editor, Applications, Search, Backups, Connect, Screen Reader and more\n- The glass behind windows, menus and the Dock is now Comet Glass, and Control Center's layout is called Tiles\n\n**Desktop**\n- A taller menu bar\n- Inter is the system font everywhere, with the standard alert sounds\n- App icons come from CometIcons throughout, and Web Browser has its own icon again\n- The weather widgets use the icon theme's weather icons, and the music widget has new controls\n\n**Comet Settings**\n- The sidebar is light in the light appearance\n\n**Software Update**\n- What's new is right on the Software Update page\n- Restart Now installs the update while the computer restarts, with its progress on screen"
 }
