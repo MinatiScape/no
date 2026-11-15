@@ -1,12 +1,12 @@
 {
-    "version": "27.2.0",
+    "version": "27.3.1",
     "codename": "Emerald Bay",
-    "filename": "cometos-27.2.0-1bc0815-20261030-x86_64.iso",
-    "url": "https://master.dl.sourceforge.net/project/cometlinux/27.2.0/cometos-27.2.0-1bc0815-20261030-x86_64.iso",
+    "filename": "cometos-27.3.1-102d522-20261115-x86_64.iso",
+    "url": "https://master.dl.sourceforge.net/project/cometlinux/27.3.1/cometos-27.3.1-102d522-20261115-x86_64.iso",
     "mirrors": [
-        "https://downloads.sourceforge.net/project/cometlinux/27.2.0/cometos-27.2.0-1bc0815-20261030-x86_64.iso"
+        "https://downloads.sourceforge.net/project/cometlinux/27.3.1/cometos-27.3.1-102d522-20261115-x86_64.iso"
     ],
-    "size": 2959474688,
-    "md5": "ab1960f9c8341c94e214a901484b6a56",
-    "changelog": "CometOS Emerald Bay 27.2 gives every app and feature a plain name that says what it does, and installs updates while the computer restarts.\n\n**Names**\n- Apps and features have plain names: Files, Web Browser, Software Center, Document Viewer, Text Editor, Applications, Search, Backups, Connect, Screen Reader and more\n- The glass behind windows, menus and the Dock is now Comet Glass, and Control Center's layout is called Tiles\n\n**Desktop**\n- A taller menu bar\n- Inter is the system font everywhere, with the standard alert sounds\n- App icons come from CometIcons throughout, and Web Browser has its own icon again\n- The weather widgets use the icon theme's weather icons, and the music widget has new controls\n\n**Comet Settings**\n- The sidebar is light in the light appearance\n\n**Software Update**\n- What's new is right on the Software Update page\n- Restart Now installs the update while the computer restarts, with its progress on screen"
+    "size": 2953330688,
+    "md5": "ba19628d7dabd6e89bc4c2ba883d1afa",
+    "changelog": "CometOS Emerald Bay 27.3.1 Release brings back the menus of GTK 3 apps.\n\n**Fixes**\n- GTK 3 apps such as DeaDBeeF show their menus in their window again; they had disappeared, appearing neither in the window nor in the menu bar"
 }
